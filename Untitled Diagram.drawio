@@ -1,71 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T01:17:44.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="3oqEVGgvkV0Se7pCnicD" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T10:15:11.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="SqUYMoFdaHltiOlEbBWO" version="18.1.3" type="github">
   <diagram id="bnXgEh7T5cN_dDgM0Znf" name="Page-1">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZQCVTMDNfjIy88Gdk9F0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-1" target="ZQCVTMDNfjIy88Gdk9F0-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQCVTMDNfjIy88Gdk9F0-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;点击按钮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQCVTMDNfjIy88Gdk9F0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-2" target="ZQCVTMDNfjIy88Gdk9F0-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="160" as="targetPoint" />
+            <mxPoint x="515" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Fvd5LnRsPS2OyA9Ss2yO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-2" target="ZQCVTMDNfjIy88Gdk9F0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-2" value="是否是奇数次点击" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="225" y="120" width="170" height="80" as="geometry" />
+          <mxGeometry x="220" y="230" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="270" y="200" width="40" height="20" as="geometry" />
+          <mxGeometry x="265" y="310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-6" target="ZQCVTMDNfjIy88Gdk9F0-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="340" as="targetPoint" />
+            <mxPoint x="305" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;触发showKeyEquip函数，传入特征值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-7" target="ZQCVTMDNfjIy88Gdk9F0-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-7" value="运行getMainData函数，用axios获取json信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-8" target="ZQCVTMDNfjIy88Gdk9F0-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-8" value="将获得信息中符合特征值的元素组成新数组getElement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-9" target="ZQCVTMDNfjIy88Gdk9F0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-9" value="根据gainElement生成图标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="250" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-10" value="将显示图标组生成map数据gainButton" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="250" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="395" y="140" width="30" height="20" as="geometry" />
+          <mxGeometry x="390" y="250" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="ZQCVTMDNfjIy88Gdk9F0-17" target="ZQCVTMDNfjIy88Gdk9F0-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-17" value="&lt;span style=&quot;&quot;&gt;触发closeKeyEquip函数，传入特征值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQCVTMDNfjIy88Gdk9F0-18" value="将图标集合gainbutton中符合特征值的移除" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fvd5LnRsPS2OyA9Ss2yO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="Fvd5LnRsPS2OyA9Ss2yO-3" target="ZQCVTMDNfjIy88Gdk9F0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fvd5LnRsPS2OyA9Ss2yO-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;点击按钮&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
